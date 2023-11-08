@@ -1,0 +1,8 @@
+title: Rem Website
+description: A simple website description
+theme: jekyll-theme-minimal  
+url: https://abidshahrear66.github.io/rem-website 
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
